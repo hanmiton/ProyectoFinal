@@ -8,12 +8,7 @@
           templateUrl: 'partials/ingeniero-name.html'
         };
       })
-    .directive('ingenieroSubir', function () {
-        return {
-          restrict: 'E',
-          templateUrl: 'partials/ingeniero-subir.html'
-        };
-      })
+    
     .directive('convenioName', function () {
         return {
           restrict: 'E',

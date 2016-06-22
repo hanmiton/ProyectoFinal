@@ -35,6 +35,15 @@
    <div class="container-fluid">
     <div ng-view></div>  
     </div>
+     <div class="container">
+    <div>
+      <form id="upload-widget" method="post" action="/upload" class="dropzone">
+        <div class="fallback">
+          <input name="file" type="file" />
+        </div>
+      </form>
+    </div>
+</div>
     <script type="text/javascript" src="/dropzone/dist/dropzone.js"></script>
     <script type="text/javascript"  src="/js/dropzone.js">
       Dropzone.options.uploadWidget = {
