@@ -1,9 +1,8 @@
 {
-  "name": "file-upload-example",
+  "name": "ProyectoFinal",
   "version": "1.0.0",
-  "description": "A simple file upload example for Node.js. Used to help demonstrate the Dropzone JavaScript plugin.",
+  "description": "Docentes convenios y simple upload system for Node.js.",
   "main": "index.js",
-  "author": "Lukas White <hello@lukaswhite.com>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3",

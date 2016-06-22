@@ -1,15 +1,17 @@
-#Image Uploading with Dropzone.js, Node.js and Express
+Referencias: 
+AngularJS
+	https://github.com/proyectos-mejorandola/pokedex
+GoogleMaps
+	https://www.adictosaltrabajo.com/wp-content/uploads/tutorial-data/AngularJSGoogleMaps/ejemplo/index.html
+	https://github.com/marlandy/angularjs-googlemaps-sample
+Subida Archivos con drag and drop
+	https://github.com/sitepoint-editors/image-uploads-dropzonejs-node-express
+Subida simple de archivos
+	https://www.npmjs.com/package/express-fileupload	
 
-This simple example of an image upload facility is designed to accompany a SitePoint article on [DropzoneJS](http://www.dropzonejs.com). The server-side component is written using Node.js and Express.
-
-Article URL: http://www.sitepoint.com/file-upload-form-express-dropzone-js/
-
-Full details will be in the article, but here's a quickstart:
-
-1. Clone the repository
+1. Clonar repositorio
 2. Ensure that `uploads/` is writeable
-3. Optionally run `vagrant up`, then `vagrant ssh`, then `cd /vagrant`
 4. Run `npm install`
-5. Run `bower install`
+5. Run `bower install`(instalalr bower npm install bower -g)
 6. Run the app with `node index.js`
 7. The app will run on port 8080
