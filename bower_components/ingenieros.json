@@ -1,13 +1,19 @@
 [
   {
     "id": "001",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000001",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1",
       "Facultad2"
     ],
-    "edad": "2′4″ (0.71m)",
+    "edad": "35",
     "facultad": "facultad001",
     "abilities": [
       "habilidad1",
@@ -23,15 +29,30 @@
       "total": 318
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "002",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000002",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1",
       "Facultad2"
@@ -52,15 +73,30 @@
       "total": 405
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "003",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000003",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1",
       "Facultad2"
@@ -81,15 +117,30 @@
       "total": 525
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "004",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000004",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3"
     ],
@@ -109,15 +160,30 @@
       "total": 309
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "005",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000005",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3"
     ],
@@ -137,15 +203,30 @@
       "total": 405
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "006",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000006",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3",
       "Facultad4"
@@ -166,15 +247,30 @@
       "total": 534
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "007",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000007",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -194,15 +290,30 @@
       "total": 314
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "008",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000008",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -222,15 +333,30 @@
       "total": 405
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "009",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000009",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -250,15 +376,30 @@
       "total": 530
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "010",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000010",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6"
     ],
@@ -278,19 +419,34 @@
       "total": 195
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "011",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000011",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6"
     ],
-    "edad": "2′4″ (0.71m)",
+    "edad": "35",
     "facultad": "facultad001",
     "abilities": [
       "Shed Skin"
@@ -305,15 +461,30 @@
       "total": 205
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "012",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000012",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6",
       "Facultad4"
@@ -334,15 +505,30 @@
       "total": 395
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "013",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000013",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6",
       "Facultad2"
@@ -363,15 +549,30 @@
       "total": 195
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "014",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000014",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6",
       "Facultad2"
@@ -391,15 +592,30 @@
       "total": 205
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "015",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000015",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6",
       "Facultad2"
@@ -420,15 +636,30 @@
       "total": 395
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "016",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000016",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal",
       "Facultad4"
@@ -450,15 +681,30 @@
       "total": 251
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "017",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000017",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal",
       "Facultad4"
@@ -480,15 +726,30 @@
       "total": 349
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "018",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000018",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal",
       "Facultad4"
@@ -510,15 +771,30 @@
       "total": 479
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "019",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000019",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
@@ -539,19 +815,34 @@
       "total": 253
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "020",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000020",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
-    "edad": "2′4″ (0.71m)",
+    "edad": "35",
     "facultad": "facultad001",
     "abilities": [
       "Guts",
@@ -568,15 +859,30 @@
       "total": 413
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "021",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000021",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal",
       "Facultad4"
@@ -597,15 +903,30 @@
       "total": 262
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "022",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000022",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal",
       "Facultad4"
@@ -626,15 +947,30 @@
       "total": 442
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "023",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000023",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2"
     ],
@@ -655,15 +991,30 @@
       "total": 288
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "024",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000024",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2"
     ],
@@ -684,15 +1035,30 @@
       "total": 438
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "025",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000025",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad7"
     ],
@@ -712,15 +1078,30 @@
       "total": 320
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "026",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000026",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad7"
     ],
@@ -740,15 +1121,30 @@
       "total": 485
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "027",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000027",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad8"
     ],
@@ -768,15 +1164,30 @@
       "total": 300
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "028",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000028",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad8"
     ],
@@ -796,15 +1207,30 @@
       "total": 450
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "029",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000029",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2"
     ],
@@ -832,8 +1258,14 @@
   },
   {
     "id": "030",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000030",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2"
     ],
@@ -861,8 +1293,14 @@
   },
   {
     "id": "031",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000031",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2",
       "Facultad8"
@@ -891,8 +1329,14 @@
   },
   {
     "id": "032",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Nidoran♂",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2"
     ],
@@ -920,8 +1364,14 @@
   },
   {
     "id": "033",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000032",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2"
     ],
@@ -949,8 +1399,14 @@
   },
   {
     "id": "034",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000034",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2",
       "Facultad8"
@@ -979,8 +1435,14 @@
   },
   {
     "id": "035",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000035",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad9"
     ],
@@ -1001,15 +1463,30 @@
       "total": 323
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "036",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000036",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad9"
     ],
@@ -1030,15 +1507,30 @@
       "total": 483
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "037",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000037",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3"
     ],
@@ -1058,15 +1550,30 @@
       "total": 299
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "038",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000038",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3"
     ],
@@ -1086,15 +1593,30 @@
       "total": 505
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "039",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000039",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal",
       "Facultad9"
@@ -1116,15 +1638,30 @@
       "total": 270
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "040",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000040",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal",
       "Facultad9"
@@ -1146,15 +1683,30 @@
       "total": 435
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "041",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000041",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2",
       "Facultad4"
@@ -1175,15 +1727,30 @@
       "total": 245
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "042",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000042",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2",
       "Facultad4"
@@ -1204,15 +1771,30 @@
       "total": 455
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "043",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000043",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1",
       "Facultad2"
@@ -1233,15 +1815,30 @@
       "total": 320
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "044",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000043",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1",
       "Facultad2"
@@ -1262,15 +1859,30 @@
       "total": 395
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "045",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000045",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1",
       "Facultad2"
@@ -1291,15 +1903,30 @@
       "total": 490
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "046",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000046",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6",
       "Facultad1"
@@ -1321,15 +1948,30 @@
       "total": 285
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "047",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000047",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6",
       "Facultad1"
@@ -1351,15 +1993,30 @@
       "total": 405
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "048",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000048",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6",
       "Facultad2"
@@ -1381,15 +2038,30 @@
       "total": 305
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "049",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000049",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6",
       "Facultad2"
@@ -1411,15 +2083,30 @@
       "total": 450
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "050",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000050",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad8"
     ],
@@ -1440,19 +2127,34 @@
       "total": 265
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "051",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000051",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad8"
     ],
-    "edad": "2′4″ (0.71m)",
+    "edad": "35",
     "facultad": "facultad001",
     "abilities": [
       "Arena Trap",
@@ -1469,15 +2171,30 @@
       "total": 405
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "052",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000052",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
@@ -1498,15 +2215,30 @@
       "total": 290
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "053",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000053",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
@@ -1527,15 +2259,30 @@
       "total": 440
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "054",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000055",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -1556,15 +2303,30 @@
       "total": 320
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "055",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000055",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -1585,15 +2347,30 @@
       "total": 500
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "056",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000056",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad10"
     ],
@@ -1614,15 +2391,30 @@
       "total": 305
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "057",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000057",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad10"
     ],
@@ -1643,19 +2435,34 @@
       "total": 455
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "058",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000058",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3"
     ],
-    "edad": "2′4″ (0.71m)",
+    "edad": "35",
     "facultad": "facultad001",
     "abilities": [
       "Flash Facultad3",
@@ -1672,15 +2479,30 @@
       "total": 350
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "059",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000059",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3"
     ],
@@ -1701,15 +2523,30 @@
       "total": 555
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "060",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000060",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -1730,15 +2567,30 @@
       "total": 300
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "061",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000061",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -1759,15 +2611,30 @@
       "total": 385
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "062",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000062",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5",
       "Facultad10"
@@ -1789,15 +2656,30 @@
       "total": 510
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "063",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000063",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad11"
     ],
@@ -1818,15 +2700,30 @@
       "total": 310
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "064",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000064",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad11"
     ],
@@ -1847,15 +2744,30 @@
       "total": 400
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "065",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000065",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad11"
     ],
@@ -1876,15 +2788,30 @@
       "total": 500
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "066",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000066",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad10"
     ],
@@ -1905,15 +2832,30 @@
       "total": 305
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "067",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000067",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad10"
     ],
@@ -1934,15 +2876,30 @@
       "total": 405
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "068",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000068",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad10"
     ],
@@ -1963,20 +2920,35 @@
       "total": 505
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "069",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000069",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1",
       "Facultad2"
     ],
-    "edad": "2′4″ (0.71m)",
+    "edad": "35",
     "facultad": "8.8 lbs (4.0 kg)",
     "abilities": [
       "habilidad2",
@@ -1992,15 +2964,30 @@
       "total": 300
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "070",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000070",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1",
       "Facultad2"
@@ -2021,15 +3008,30 @@
       "total": 390
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "071",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000071",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1",
       "Facultad2"
@@ -2050,15 +3052,30 @@
       "total": 490
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "072",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000072",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5",
       "Facultad2"
@@ -2080,15 +3097,30 @@
       "total": 335
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "073",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000073",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5",
       "Facultad2"
@@ -2110,15 +3142,30 @@
       "total": 515
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      }, 
+      {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "074",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000074",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad12",
       "Facultad8"
@@ -2140,15 +3187,30 @@
       "total": 300
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "075",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000075",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad12",
       "Facultad8"
@@ -2170,15 +3232,30 @@
       "total": 390
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "076",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000076",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad12",
       "Facultad8"
@@ -2200,15 +3277,30 @@
       "total": 495
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "077",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000077",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3"
     ],
@@ -2229,15 +3321,30 @@
       "total": 410
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "078",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000078",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3"
     ],
@@ -2258,15 +3365,30 @@
       "total": 500
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "079",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000079",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5",
       "Facultad11"
@@ -2288,15 +3410,30 @@
       "total": 315
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "080",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000080",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5",
       "Facultad11"
@@ -2318,15 +3455,30 @@
       "total": 490
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "081",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000081",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad7",
       "Facultad13"
@@ -2348,15 +3500,30 @@
       "total": 325
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "082",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000082",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad7",
       "Facultad13"
@@ -2378,15 +3545,30 @@
       "total": 465
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "083",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Farfetch'd",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal",
       "Facultad4"
@@ -2411,8 +3593,14 @@
   },
   {
     "id": "084",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000083",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal",
       "Facultad4"
@@ -2434,15 +3622,30 @@
       "total": 310
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "085",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000084",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal",
       "Facultad4"
@@ -2464,15 +3667,30 @@
       "total": 460
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "086",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000085",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -2493,15 +3711,30 @@
       "total": 325
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "087",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000086",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5",
       "Facultad14"
@@ -2523,15 +3756,30 @@
       "total": 475
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "088",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000087",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2"
     ],
@@ -2552,15 +3800,30 @@
       "total": 325
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "089",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000088",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2"
     ],
@@ -2581,15 +3844,30 @@
       "total": 500
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "090",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000089",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -2610,15 +3888,30 @@
       "total": 305
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "091",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000090",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5",
       "Facultad14"
@@ -2640,15 +3933,30 @@
       "total": 525
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "092",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000092",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad15",
       "Facultad2"
@@ -2668,15 +3976,30 @@
       "total": 310
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "093",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000093",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad15",
       "Facultad2"
@@ -2696,15 +4019,30 @@
       "total": 405
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "094",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000094",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad15",
       "Facultad2"
@@ -2724,15 +4062,30 @@
       "total": 500
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "095",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000095",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad12",
       "Facultad8"
@@ -2754,15 +4107,30 @@
       "total": 385
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "096",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000096",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad11"
     ],
@@ -2783,15 +4151,30 @@
       "total": 328
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "097",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000097",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad11"
     ],
@@ -2812,15 +4195,30 @@
       "total": 483
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "098",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000098",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -2841,15 +4239,30 @@
       "total": 325
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "099",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000099",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -2870,15 +4283,30 @@
       "total": 475
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "100",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000100",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad7"
     ],
@@ -2899,15 +4327,30 @@
       "total": 330
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "101",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000001",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad7"
     ],
@@ -2928,15 +4371,30 @@
       "total": 480
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "102",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000103",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1",
       "Facultad11"
@@ -2957,15 +4415,30 @@
       "total": 325
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "103",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000104",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1",
       "Facultad11"
@@ -2986,15 +4459,30 @@
       "total": 520
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "104",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000105",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad8"
     ],
@@ -3015,15 +4503,30 @@
       "total": 320
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "105",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000106",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad8"
     ],
@@ -3044,15 +4547,30 @@
       "total": 425
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "106",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000107",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad10"
     ],
@@ -3073,15 +4591,30 @@
       "total": 455
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "107",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000108",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad10"
     ],
@@ -3102,15 +4635,30 @@
       "total": 455
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "108",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000109",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
@@ -3131,15 +4679,30 @@
       "total": 385
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "109",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000110",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2"
     ],
@@ -3158,15 +4721,30 @@
       "total": 340
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "110",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000111",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad2"
     ],
@@ -3185,15 +4763,30 @@
       "total": 490
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "111",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000112",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad8",
       "Facultad12"
@@ -3215,15 +4808,30 @@
       "total": 345
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "112",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000113",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad8",
       "Facultad12"
@@ -3245,15 +4853,30 @@
       "total": 485
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "113",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000114",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
@@ -3274,15 +4897,30 @@
       "total": 450
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "114",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000115",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad1"
     ],
@@ -3303,15 +4941,30 @@
       "total": 435
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "115",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000116",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
@@ -3335,8 +4988,14 @@
   },
   {
     "id": "116",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000116",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -3357,15 +5016,30 @@
       "total": 295
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "117",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000117",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -3386,15 +5060,30 @@
       "total": 440
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "118",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000118",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -3415,15 +5104,30 @@
       "total": 320
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "119",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000119",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -3444,15 +5148,30 @@
       "total": 450
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "120",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000120",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -3473,15 +5192,30 @@
       "total": 340
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "121",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000121",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5",
       "Facultad11"
@@ -3503,15 +5237,30 @@
       "total": 520
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "122",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Mr. Mime",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad11",
       "Facultad9"
@@ -3539,8 +5288,14 @@
   },
   {
     "id": "123",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000122",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6",
       "Facultad4"
@@ -3562,15 +5317,30 @@
       "total": 500
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "124",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000123",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad14",
       "Facultad11"
@@ -3592,15 +5362,30 @@
       "total": 455
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "125",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000124",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad7"
     ],
@@ -3620,15 +5405,30 @@
       "total": 490
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "126",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000125",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3"
     ],
@@ -3648,15 +5448,30 @@
       "total": 495
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "127",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000126",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad6"
     ],
@@ -3680,8 +5495,14 @@
   },
   {
     "id": "128",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000128",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
@@ -3705,8 +5526,14 @@
   },
   {
     "id": "129",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000129",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -3726,15 +5553,30 @@
       "total": 200
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "130",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000130",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5",
       "Facultad4"
@@ -3755,15 +5597,30 @@
       "total": 540
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "131",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000131",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5",
       "Facultad14"
@@ -3788,8 +5645,14 @@
   },
   {
     "id": "132",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000132",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
@@ -3812,8 +5675,14 @@
   },
   {
     "id": "133",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000133",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
@@ -3834,15 +5703,30 @@
       "total": 325
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "134",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000134",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad5"
     ],
@@ -3862,15 +5746,30 @@
       "total": 525
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "135",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000135",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad7"
     ],
@@ -3890,15 +5789,30 @@
       "total": 525
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "136",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000136",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3"
     ],
@@ -3918,15 +5832,30 @@
       "total": 525
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "137",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000137",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
@@ -3947,15 +5876,30 @@
       "total": 395
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "138",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000138",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad12",
       "Facultad5"
@@ -3977,15 +5921,30 @@
       "total": 355
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "139",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000139",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad12",
       "Facultad5"
@@ -4007,15 +5966,30 @@
       "total": 495
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "140",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000140",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad12",
       "Facultad5"
@@ -4037,15 +6011,30 @@
       "total": 355
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "141",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000141",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad12",
       "Facultad5"
@@ -4067,15 +6056,30 @@
       "total": 495
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "142",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000142",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad12",
       "Facultad4"
@@ -4100,8 +6104,14 @@
   },
   {
     "id": "143",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000143",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Normal"
     ],
@@ -4122,15 +6132,30 @@
       "total": 540
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+      {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "144",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000144",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad14",
       "Facultad4"
@@ -4154,8 +6179,14 @@
   },
   {
     "id": "145",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000145",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad7",
       "Facultad4"
@@ -4179,8 +6210,14 @@
   },
   {
     "id": "146",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000146",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad3",
       "Facultad4"
@@ -4204,8 +6241,14 @@
   },
   {
     "id": "147",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000147",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad16"
     ],
@@ -4225,15 +6268,30 @@
       "total": 300
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "148",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000148",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad16"
     ],
@@ -4253,15 +6311,30 @@
       "total": 420
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "149",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000149",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad16",
       "Facultad4"
@@ -4282,15 +6355,30 @@
       "total": 600
     },
     "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
+      {
+        "Universidad": "UniversidaAn1",
+        "Titulo": "Titulo1"
+      },
+       {
+        "Universidad": "UniversidaAn2",
+        "Titulo": "Titulo2"
+      },
+            {
+        "Universidad": "UniversidaAn3",
+        "Titulo": "Titulo3"
+      }
     ]
   },
   {
     "id": "150",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000151",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad11"
     ],
@@ -4313,8 +6401,14 @@
   },
   {
     "id": "151",
+    "imgUrl": "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467022565/oo4cc5dqrwa237vexmsx.jpg",
+    "ci": "1718048232",
     "name": "Ingeniero000151",
-    "ingenieria": "Ingenieria001",
+    "sname": "Nombre2",
+    "papellido": "Apellido1",
+    "sapellido": "Apellido2",
+    "ingenieria": "Doctorado001",
+    "universidad": "Universidad",
     "type": [
       "Facultad11"
     ],

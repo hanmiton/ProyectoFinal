@@ -1,23 +1,45 @@
 <ul class="list-group">
   <li class="list-group-item">
-    <strong>Facultad</strong>
-    <span class="pull-right">
-      <ingeniero-type></ingeniero-type>
-    </span>
+    <strong>Nombres</strong>
+    <span class="pull-right">{{ingeniero.name}} {{ingeniero.sname}}</span>
+  </li>
+  <li class="list-group-item">
+    <strong>Apellidos</strong>
+    <span class="pull-right">{{ingeniero.papellido}} {{ingeniero.sapellido}}</span>
+  </li>
+  <li class="list-group-item">
+    <strong>Cédula</strong>
+    <span class="pull-right">{{ingeniero.ci}}</span>
   </li>
   <li class="list-group-item">
     <strong>Edad</strong>
     <span class="pull-right">{{ingeniero.edad}}</span>
   </li>
   <li class="list-group-item">
-    <strong>Instrucción</strong>
+    <strong>Doctorado Actual</strong>
+    <span class="pull-right">{{ingeniero.ingenieria}}</span>
+  </li>
+  <li class="list-group-item">
+    <strong>Universidad</strong>
+    <span class="pull-right">
+    {{ingeniero.universidad}}
+    </span>
+  </li>
+  <li class="list-group-item">
+    <strong>Facultad</strong>
     <span class="pull-right">{{ingeniero.facultad}}</span>
   </li>
   <li class="list-group-item">
-    <strong>Habilidades</strong>
+    <strong>Tipo</strong>
+    <span class="pull-right">
+      <ingeniero-type></ingeniero-type>
+    </span>
+  </li>
+  <li class="list-group-item">
+    <strong>Doctorados</strong>
       <ul>
-        <li ng-repeat="ability in ingeniero.abilities">
-          {{ability}}
+        <li ng-repeat="historia in ingeniero.Historial">
+          {{historia.Universidad}}
         </li>
       </ul>
   </li>
